@@ -9,13 +9,13 @@
 ## Results
 - Our final composition of the webpage included the journalist's article about the UFO sightings, a table highlighting the sightings data with columns showing the date, city, state, country, shape, duration, and any comments associated with a particular sighting. The webpage also includes a filter dashboard whereby readers could filter the table via date, city, state, country, and shape of the UFO sighting.
 - Initial webpage
-- https://github.com/MichaelG-B/UFOs/blob/5f68b4a1724f8dd8b59e2e1c8d14ecd10265f125/Initial%20webpage.png
+- ![](https://github.com/MichaelG-B/UFOs/blob/5f68b4a1724f8dd8b59e2e1c8d14ecd10265f125/Initial%20webpage.png)
 - The initial webpage looks like the image above when it loads up. In order to filter the results navigate to the left hand side of the webpage and identify which filter you would like to use to alter the table date.
 - One filter
-- https://github.com/MichaelG-B/UFOs/blob/5f68b4a1724f8dd8b59e2e1c8d14ecd10265f125/One%20filter%20search.png
+- ![](https://github.com/MichaelG-B/UFOs/blob/5f68b4a1724f8dd8b59e2e1c8d14ecd10265f125/One%20filter%20search.png)
 - You may now change the results of the table based on onefilter like the image above which will alter the table to provide results based on the filter.
 - Multiple filters
-- https://github.com/MichaelG-B/UFOs/blob/5f68b4a1724f8dd8b59e2e1c8d14ecd10265f125/multiple%20filter%20search.png
+- ![](https://github.com/MichaelG-B/UFOs/blob/5f68b4a1724f8dd8b59e2e1c8d14ecd10265f125/multiple%20filter%20search.png)
 - You may also utilize multiple filters like the image above which will alter the table results based on those filters
 - Once you have implemented your chosen filters the page will display the results in the table on the right of the webpage.
 
